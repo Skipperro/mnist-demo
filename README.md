@@ -1,2 +1,2 @@
-# mnist-demo
+# MNIST-Demo
 Tensorflow MNIST Demo
